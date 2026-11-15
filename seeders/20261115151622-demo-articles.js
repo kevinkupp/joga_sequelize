@@ -20,7 +20,6 @@ module.exports = {
         image: 'morning.jpg',
         body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
         published: '2020-04-14 15:02:41',
-        author_id: 3,
         createdAt: new Date(),
         updatedAt: new Date()
       }]),
